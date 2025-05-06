@@ -12,13 +12,13 @@
 RootModule = 'FreeChuckNorrisJokes.psm1'
 
 # Version number of this module.
-ModuleVersion = '1.0.0'
+ModuleVersion = '1.0.1'
 
 # Supported PSEditions
 # CompatiblePSEditions = @()
 
 # ID used to uniquely identify this module
-GUID = 'bd906a89-16e9-4b5a-977e-93ca73bebda8'
+GUID = 'f7a0e78d-1289-4de8-8e06-239ce2d01cbc'
 
 # Author of this module
 Author = 'ITNinja01'
@@ -95,10 +95,10 @@ PrivateData = @{
     PSData = @{
 
         # Tags applied to this module. These help with module discovery in online galleries.
-        Tags = 'humor', 'jokes', 'funny', 'comedy', 'action hero'
+        Tags = 'humor', 'jokes', 'funny', 'comedy', 'actionhero'
 
         # A URL to the license for this module.
-        LicenseUri = 'https://github.com/ITNinja01/PowerShell/blob/main/LICENSE'
+        LicenseUri = 'https://github.com/ITNinja01/FreeChuckNorrisJokes/blob/main/LICENSE'
 
         # A URL to the main website for this project.
         ProjectUri = 'https://github.com/ITNinja01/FreeChuckNorrisJokes'
