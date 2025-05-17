@@ -14,10 +14,10 @@ https://api.chucknorris.io/
 Funny Chuck Norris jokes in the console.
 .NOTES
 author: ITNinja01
-gitHub: https://github.com/ITNin
+gitHub: https://github.com/ITNinja01
 First module never published on PSGallery
-Date: 05-04-2025
-version: 1.0.0
+Date: 05-17-2025
+version: 1.0.2
 #>
 
 function Get-ChuckNorrisJoke {
