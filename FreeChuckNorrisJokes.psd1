@@ -30,7 +30,7 @@ CompanyName = 'ITNinja01'
 Copyright = '2025'
 
 # Description of the functionality provided by this module
-Description = 'A module using the free Chuck Norris API to have Chuck Norris jokes in PowerShell'
+Description = 'A module using the free Chuck Norris API to have Chuck Norris jokes in PowerShell.'
 
 # Minimum version of the PowerShell engine required by this module
 PowerShellVersion = '5.1'
