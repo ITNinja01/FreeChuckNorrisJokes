@@ -12,7 +12,7 @@
 RootModule = 'FreeChuckNorrisJokes.psm1'
 
 # Version number of this module.
-ModuleVersion = '1.0.2'
+ModuleVersion = '1.1.0'
 
 # Supported PSEditions
 # CompatiblePSEditions = @()
@@ -30,7 +30,7 @@ CompanyName = 'ITNinja01'
 Copyright = '2025'
 
 # Description of the functionality provided by this module
-Description = 'A module using the free Chuck Norris API to have Chuck Norris jokes in PowerShell'
+Description = 'A module using the free Chuck Norris API to have Chuck Norris jokes in PowerShell.'
 
 # Minimum version of the PowerShell engine required by this module
 PowerShellVersion = '5.1'
@@ -69,7 +69,8 @@ PowerShellVersion = '5.1'
 # NestedModules = @()
 
 # Functions to export from this module, for best performance, do not use wildcards and do not delete the entry, use an empty array if there are no functions to export.
-FunctionsToExport = '*'
+FunctionsToExport = 'Get-ChuckNorrisJoke', 
+'Get-ChuckNorrisJokeByCategory'
 
 # Cmdlets to export from this module, for best performance, do not use wildcards and do not delete the entry, use an empty array if there are no cmdlets to export.
 CmdletsToExport = '*'
