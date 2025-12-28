@@ -12,7 +12,7 @@
 RootModule = 'FreeChuckNorrisJokes.psm1'
 
 # Version number of this module.
-ModuleVersion = '1.1.0'
+ModuleVersion = '1.1.1'
 
 # Supported PSEditions
 # CompatiblePSEditions = @()
@@ -88,7 +88,7 @@ AliasesToExport = '*'
 # ModuleList = @()
 
 # List of all files packaged with this module
-FileList = 'FreeChuckNorrisJokes.psm1'
+FileList = 'FreeChuckNorrisJokes.psm1, freechucknorrisjokes.psd1, Functions\Get-ChuckNorrisJoke.ps1, Functions\Get-ChuckNorrisJokeByCategory.ps1'
 
 # Private data to pass to the module specified in RootModule/ModuleToProcess. This may also contain a PSData hashtable with additional module metadata used by PowerShell.
 PrivateData = @{
